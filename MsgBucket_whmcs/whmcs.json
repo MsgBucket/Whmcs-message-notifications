@@ -1,0 +1,25 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "whmcs_test",
+  "license": "proprietary",
+  "category": "marketing",
+  "description": {
+    "name": "MsgBucket Whmcs Module",
+    "tagline": "Intergrate WHMCS to MsgBucket",
+    "long": "Send notifications to your customers"
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://wa.msgbucket.com",
+    "docs_url": "https://wa.msgbucket.com"
+  },
+  "authors": [
+    {
+      "name": "MsgBucket",
+      "homepage": "https://msgbucket.com"
+    }
+  ]
+}
